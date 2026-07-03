@@ -43,8 +43,8 @@ All examples are implemented as Jupyter notebooks designed to run in Google Cola
 | Notebook | Topic |
 |----------|-------|
 | `ML_Example1_Classification.ipynb` | Traditional ML: logistic regression, interpretability trade-offs |
-| `DL_Example0_LogisticRegression.ipynb` | Bridge: logistic regression as a single-layer neural network |
-| `DL_Example1_MNIST_to_PneumoniaMNIST.ipynb` | Deep Learning: image classification with MLPs and CNNs |
+| `DL_Example0_LogisticRegression.ipynb` | Bridge: logistic regression = single neuron; scikit-learn vs. TensorFlow |
+| `DL_Example1_MNIST_to_PneumoniaMNIST.ipynb` | Deep Learning: image classification with MLPs and CNNs; Grad-CAM interpretability |
 | `DL_Example2_BINNs.ipynb` | BINNs: biologically-informed neural networks for ODE parameter recovery |
 
 ### Data
@@ -74,14 +74,14 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 %cd /content/drive/MyDrive/
-!git clone https://github.com/ssindi-ucm/SIAM-LS26-MT1
+!git clone https://github.com/ssindiUCM/SIAM-LS26-MT1
 %cd SIAM-LS26-MT1
 ```
 
 ### Option 3: Run locally
 
 ```bash
-git clone https://github.com/ssindi-ucm/SIAM-LS26-MT1
+git clone https://github.com/ssindiUCM/SIAM-LS26-MT1
 cd SIAM-LS26-MT1
 pip install numpy matplotlib scikit-learn tensorflow
 jupyter notebook
