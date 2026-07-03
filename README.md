@@ -36,6 +36,15 @@ We begin with foundational concepts — including the trade-off between accuracy
 
 ---
 
+## Slides
+
+| Format | Link |
+|--------|------|
+| PDF | [MT1-Slides.pdf](MT1-Slides.pdf) |
+| Google Slides | [View online](https://docs.google.com/presentation/d/1FqeB20gf3gtZ1KJ6O0laSp-UuNLFPMbBN8Y90BVH7zg/edit?usp=sharing) |
+
+---
+
 ## Notebooks
 
 All examples are implemented as Jupyter notebooks designed to run in Google Colab.
