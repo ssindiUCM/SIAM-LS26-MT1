@@ -42,7 +42,7 @@ All examples are implemented as Jupyter notebooks designed to run in Google Cola
 
 | Notebook | Topic |
 |----------|-------|
-| `ML_Example1_Classification.ipynb` | Traditional ML: logistic regression, random forests, interpretability trade-offs |
+| `ML_Example1_Classification.ipynb` | Traditional ML: logistic regression, interpretability trade-offs |
 | `DL_Example0_LogisticRegression.ipynb` | Bridge: logistic regression as a single-layer neural network |
 | `DL_Example1_MNIST_to_PneumoniaMNIST.ipynb` | Deep Learning: image classification with MLPs and CNNs |
 | `DL_Example2_BINNs.ipynb` | BINNs: biologically-informed neural networks for ODE parameter recovery |
