@@ -52,6 +52,7 @@ All examples are implemented as Jupyter notebooks designed to run in Google Cola
 | Notebook | Topic |
 |----------|-------|
 | `ML_Example1_Classification.ipynb` | Traditional ML: logistic regression, interpretability trade-offs |
+| `ML_Example2_BreastCancer.ipynb` | Traditional ML: application of methods to breast cancer data |
 | `DL_Example0_LogisticRegression.ipynb` | Bridge: logistic regression = single neuron; scikit-learn vs. TensorFlow |
 | `DL_Example1_MNIST_to_PneumoniaMNIST.ipynb` | Deep Learning: image classification with MLPs and CNNs; Grad-CAM interpretability |
 | `DL_Example2_BINNs.ipynb` | BINNs: biologically-informed neural networks for ODE parameter recovery |
