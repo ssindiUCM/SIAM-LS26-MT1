@@ -73,7 +73,7 @@ You can run all notebooks directly in your browser using [Google Colab](https://
 
 ### Option 1: Open directly in Colab
 
-Click any notebook in this repository, then click the **"Open in Colab"** badge or button at the top of the file.
+Click any notebook in this repository, then click the **"Open in Colab"** badge or button at the top of the file. This opens the notebook in Colab, but it does not automatically save it to your Google Drive. To keep your changes, choose File → Save a copy in Drive.
 
 ### Option 2: Clone to your Google Drive
 
